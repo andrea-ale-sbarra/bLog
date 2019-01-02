@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# (b)log di sviluppo
 
-You can use the [editor on GitHub](https://github.com/andrea-ale-sbarra/bLog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ciao, il mio nome è ANdrea e questo sito che sto costruendo è un semplice compendio di quanto faccio quotidianamente.
+L'idea che ho per questo spazio in realtà parte da molto lontano e il mio obbiettivo è registrare il mio sviluppo.
+Inizio quesa cosa per obbligare me stesso a credere di più nelle mie idee e per obbligare me stesso a crescere, ho passato troppo tempo seduto a guardare il tempo che passa, che spreco!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ho deciso di cambiare, voglio: *seguir virtute e canoscenza*.
 
-### Markdown
+## Regole
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Questo percorso è un percorso che deve seguire delle regole, in questo modo sarà più facile sviluppare l'autodisciplina. Senza delle regole non sarà possibile capire a che punto del percorso mi trovo, ne come fare per proseguire. 
 
-```markdown
-Syntax highlighted code block
+Quindi:
 
-# Header 1
-## Header 2
-### Header 3
+1. Poco alla volta.
+1. Poco alla volta tutti i giorni.
+1. Costanza.
+1. Cose semplici
+1. Sii garbato.
+1. Diffondi quello che scopri e conosci.
 
-- Bulleted
-- List
+## Links:
 
-1. Numbered
-2. List
+Questo spazio è molto semplice e va mantenuto semplicemente:
 
-**Bold** and _Italic_ and `Code` text
+#Work
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrea-ale-sbarra/bLog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Il mio cv [CV](curriculum_vitae)
